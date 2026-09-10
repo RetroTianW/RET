@@ -1,0 +1,31 @@
+# ===== Rust 构建产物 =====
+/target/
+*.exe
+*.pdb
+
+# ===== 扫描结果（含真实目标信息，严禁上传）=====
+scan_result.txt
+result*.txt
+*.log
+
+# ===== 环境变量与密钥文件 =====
+.env
+.env.*
+*.pem
+*.key
+*credentials*
+
+# ===== 本地字典与代理配置（按需放开注释）=====
+# proxies.txt
+# big-dict.txt
+
+# ===== IDE / 编辑器 =====
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ===== 操作系统 =====
+.DS_Store
+Thumbs.db
+desktop.ini

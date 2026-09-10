@@ -1,0 +1,35 @@
+# dirscan 示例字典（每行一个路径，# 开头为注释）
+# 完整扫描建议配合 SecLists 使用: https://github.com/danielmiessler/SecLists
+admin
+login
+robots.txt
+sitemap.xml
+.git
+.git/config
+.svn
+.env
+.htaccess
+backup
+backups/
+uploads/
+upload/
+static/
+assets/
+api/
+api/v1/
+docs/
+doc/
+test/
+debug/
+console
+phpinfo.php
+index.bak
+db.sql
+dump.sql
+archive.zip
+old/
+tmp/
+config
+server-status
+actuator
+actuator/health
