@@ -2,6 +2,7 @@
 
 > A dictionary-based, concurrent web directory scanner written in Rust (single portable binary)
 
+**English | [简体中文](./README.zh-CN.md)**
 
 ---
 
